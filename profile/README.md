@@ -1,7 +1,7 @@
 # FontExplorer X Pro Mac – Professional Font Management for macOS
 
 <div align="center">  
-<img src="https://www.fontexplorerx.com/img/logo.png" alt="FontExplorer X Pro Logo" width="256" height="256">  
+<img src="https://purchase-software.net/wp-content/uploads/2022/11/FontExplorer-X-Pro-7-1.jpg" alt="FontExplorer X Pro Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
@@ -11,7 +11,7 @@
 </div>  
 
 ---
-
+ 
 ## What is FontExplorer X Pro for Mac?
 
 FontExplorer X Pro for Mac is a professional-grade font management application developed to help designers, typographers, and creatives organize, preview, and manage their font collections with ease. It supports all major font formats and offers powerful tools for activation, classification, and troubleshooting.
@@ -20,7 +20,7 @@ With its intuitive interface, users can quickly browse through thousands of font
 
 Whether you're working on branding projects, editorial layouts, or web design, FontExplorer X Pro for Mac ensures that your typography is always under control. It is fully optimized for macOS, including support for Apple Silicon (M1/M2/M3) and the latest versions of macOS Sonoma and Ventura.
 
-![FontExplorer X Pro Interface](https://www.fontexplorerx.com/img/screenshot-mac.jpg)
+![FontExplorer X Pro Interface](https://purchase-software.com/wp-content/uploads/2022/03/FontExplorer-X-Pro.jpg)
 
 ---
 
